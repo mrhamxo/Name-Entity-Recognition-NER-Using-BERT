@@ -4,7 +4,7 @@ This project is a Named Entity Recognition (NER) application built using Streaml
 
 It is designed to be user-friendly, interactive, and visually intuitive, making it easy for both technical and non-technical users to explore the power of natural language processing (NLP). The model highlights entities in real-time using color-coded tags and provides a summary table with confidence scores, entity types, and token positions.
 
-![Dataset Link](https://huggingface.co/datasets/eriktks/conll2003)
+[Dataset Link](https://huggingface.co/datasets/eriktks/conll2003)
 
 ---
 
