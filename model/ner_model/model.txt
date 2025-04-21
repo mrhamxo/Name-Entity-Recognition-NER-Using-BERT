@@ -1,0 +1,2 @@
+model: "model.safetonsors" and "config.json"
+i cant upload it in github due to large size 
